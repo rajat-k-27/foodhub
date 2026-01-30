@@ -83,14 +83,14 @@ const seedData = [
     category: 'Beverage',
     available: true,
   },
-  {
-    name: 'Fresh Lemonade',
-    description: 'Freshly squeezed lemonade with mint',
-    price: 80,
-    image: 'https://images.unsplash.com/photo-1523677011781-c91d1bbe2f9d?w=500&h=500&fit=crop',
-    category: 'Beverage',
-    available: true,
-  },
+  // {
+  //   name: 'Fresh Lemonade',
+  //   description: 'Freshly squeezed lemonade with mint',
+  //   price: 80,
+  //   image: 'https://images.unsplash.com/photo-1523677011781-c91d1bbe2f9d?w=500&h=500&fit=crop',
+  //   category: 'Beverage',
+  //   available: true,
+  // },
   {
     name: 'Mozzarella Sticks',
     description: 'Crispy fried mozzarella with marinara sauce',
